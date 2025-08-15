@@ -3,6 +3,7 @@
 A **simple and fun hot air balloon game** built using **HTML5 Canvas**, **JavaScript**, and a bit of CSS.  
 This project was made purely for **learning the fundamentals of game development** in the browser — no fancy libraries, just pure code.
 
+[🎮 Check it out!!!](https://cryosleeperx20.github.io/Hot-Air-Balloon/)
 ---
 
 ## 🎯 Objective
